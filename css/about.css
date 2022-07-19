@@ -265,7 +265,7 @@ body {
 #main .portfolio .box {
   position: relative;
   top: 50%;
-  left: 25%;
+  left: 30%;
   -webkit-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
   width: 600px;
@@ -368,6 +368,10 @@ body {
     width: 400px;
     height: 400px;
   }
+}
+
+#main .portfolio .box p a {
+  color: #ffbf00;
 }
 
 #main .portfolio .box .hidden-text {
